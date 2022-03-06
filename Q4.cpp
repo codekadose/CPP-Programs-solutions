@@ -1,3 +1,5 @@
+/* Q4. Write a C++ program to input a word (max. length 15 characters)
+ from user and print each of its characters on new line in Reverse order*/
 #include <iostream>
 #include <cstring>
 using namespace std;

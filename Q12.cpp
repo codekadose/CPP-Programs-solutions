@@ -1,3 +1,4 @@
+// Q.12 Write a C++ program to count occurrence of a character ‘J’ in a given string.
 #include <iostream>
 #include <cstring>
 using namespace std;

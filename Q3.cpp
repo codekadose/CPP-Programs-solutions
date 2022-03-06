@@ -1,3 +1,4 @@
+// Q3. Write a C++ program to accept a set of 10 numbers and print the number using pointers.
 #include <iostream>
 using namespace std;
 

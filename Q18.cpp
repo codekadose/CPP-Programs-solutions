@@ -1,3 +1,4 @@
+// Q.18 Write a C++ program to find smallest in array of 10 floats pointer.
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+/*Q.13 Write an object oriented program in C++ to read an integer number and
+find sum of digits of integer [ Hint : input 125 output 8 i.e. 1+2+5 = 8]*/
 #include <iostream>
 using namespace std;
 

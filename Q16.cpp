@@ -1,3 +1,5 @@
+/*Q.16 Write a C++ program to accept an array to 10 integers and find smallest
+and largest element in array.*/
 #include <iostream>
 using namespace std;
 

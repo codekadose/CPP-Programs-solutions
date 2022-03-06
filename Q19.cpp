@@ -1,10 +1,11 @@
+// Q.19 Write a class based program in C++ to find area of a triangle.
 #include <iostream>
 using namespace std;
 
 class Area
 {
 private:
-    int b, h;
+    float b, h;
 
 public:
     void getAreaOfTriangle()

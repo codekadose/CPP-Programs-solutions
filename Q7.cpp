@@ -1,3 +1,4 @@
+// Q.7 Write a C++ program to accept a number and test whether it is prime or not.
 #include <iostream>
 using namespace std;
 

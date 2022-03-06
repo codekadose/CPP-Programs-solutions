@@ -1,3 +1,4 @@
+// Q.8 write a program in C++ to read an integer number and find the sum of digits of integer [ Hint : input 125 output i.e. 1 + 2 + 5 = 8 ]
 #include <iostream>
 using namespace std;
 

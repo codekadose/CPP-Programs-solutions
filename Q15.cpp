@@ -1,3 +1,6 @@
+/* Q.15 Write a C++ program to overload add ( ) function which will add two
+ integer [add(int, int) ] and three integer [ add (int, int, int)].*/
+
 #include <iostream>
 using namespace std;
 

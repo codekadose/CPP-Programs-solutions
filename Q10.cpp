@@ -1,3 +1,6 @@
+/* Q.10 Write a C++ program to find the smallest of four given integers
+ using min ( ) function to return the smallest of four given integers.
+ Int min (int, int, int, int)*/
 #include <iostream>
 using namespace std;
 

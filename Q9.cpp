@@ -1,3 +1,4 @@
+// Q.9 write in C++ that inputs and stores 10 numbers in an array and prints the sum and average of the array elements
 #include <iostream>
 using namespace std;
 

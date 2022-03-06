@@ -1,3 +1,8 @@
+/*Q.11 write C++ program to print the input string in a reverse order using
+ function , which first locates the end of string. Then it swaps the first
+ character with the last character, the second character with the second last
+  character and so on.
+*/
 #include <iostream>
 #include <cstring>
 using namespace std;

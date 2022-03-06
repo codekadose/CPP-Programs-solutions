@@ -1,3 +1,4 @@
+// Q.6 Write a program in C++ to read a line of text and to count number of words in a text.
 #include <iostream>
 #include <cstring>
 using namespace std;
