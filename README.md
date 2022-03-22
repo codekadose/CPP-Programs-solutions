@@ -39,3 +39,5 @@
 #### ✅ Q.19 Write a class based program in C++ to find area of a triangle.
 
 #### ✅ Q.20 Write a class based C++ program to find the area of a sphere.
+
+#### ✅ Q.21 Write a C++ program to find Greatest Common Divisor of two numbers.

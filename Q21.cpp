@@ -1,3 +1,4 @@
+// Q21 Write a C++ program to find Greatest Common Divisor of two numbers.
 #include <iostream>
 using namespace std;
 
